@@ -56,8 +56,5 @@ https://lalgulab2m.blogspot.com/
 •Aeroproxy: Startpage, except everything either works to the best extent it can or completely falls flat on its face.
 https://yo839.sse.codesandbox.io/
 
-•Startpage: Proxy browser. Prone to crashing, but very useful
-https://www.startpage.com/
-
 •Wolfunblock: Digital archive of proxies. Not 100% reliable, but still somewhat works.
 https://sites.google.com/view/wolfunblock/home
